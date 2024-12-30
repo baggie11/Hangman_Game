@@ -277,7 +277,7 @@ check.addEventListener("click",function(){
             console.log("The name does not include the letter");
             lettertry += 1;
             console.log(lettertry);
-            const filePath = `hangman-${lettertry}.svg`;
+            const filePath = `images/hangman-${lettertry}.svg`;
             console.log(filePath);
             
 
